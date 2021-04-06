@@ -31,7 +31,7 @@
     "behat/mink-extension": "~2.0",
     "behat/mink-browserkit-driver": "~1.1",
     "behatch/contexts": "~2.3",
-    "symfony/finder": "~2.3",
+    "symfony/finder": "~2.3|~3.0|~4.0",
     "doctrine/orm": "~2.2,>=2.2.3",
     "doctrine/doctrine-bundle": "~1.2",
     "php-mock/php-mock-phpunit": "~1.1"
