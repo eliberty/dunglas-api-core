@@ -1,5 +1,5 @@
 {
-  "name": "dunglas/api-bundle",
+  "name": "eliberty/dunglas-api-core",
   "type": "symfony-bundle",
   "description": "JSON-LD / Hydra REST API for Symfony",
   "keywords": ["REST", "API", "JSON", "JSON-LD", "Hydra"],
